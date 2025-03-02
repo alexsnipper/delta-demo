@@ -1,3 +1,8 @@
 # delta-demo
-This is a Demo for Git &amp; Github class. 
+
+This is a Demo for Git &amp; Github class.
 Welcome Here
+
+# User
+
+Akshay Gund
